@@ -54,8 +54,9 @@ JinkalKumar Jagani<img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 
 
 - - -
-- <!--👨‍💻--> All of my projects are available at <a href="https://jinkaljagani001.github.io/" target="_blank">Jinkal Jagani</a>
-
-- <!--📝--> Follow me on <a href="https://www.linkedin.com/in/jinkal-jagani-6a9b0766/" target="_blank">Linkedin<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"></a>
+<p align="left">
+- <!--👨‍💻--> All of my projects are available at <a href="https://jinkaljagani001.github.io/" target="_blank">Jinkal Jagani</a></p>
+<p align="left">
+- <!--📝--> Follow me on <a href="https://www.linkedin.com/in/jinkal-jagani-6a9b0766/" target="_blank">Linkedin<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15"></a></p>
 - 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-JINKAL-red)](https://github.com/jinkaljagani001)
