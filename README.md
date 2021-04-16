@@ -8,7 +8,7 @@ JinkalKumar Jagani<img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 ### About Me 🚀
 <p>I’m an Tech Enthusiast & a senior iOS developer. </br></p>
 <p>I am passionate about iOS development & innovations,i always ready to help  & i enjoy learning new things. </br></p>
-<p>I believe in the power of community and working with team</p>   
+<p>I believe in the power of community and working with team.</p>   
 <h3>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm Doing:
 </h3>
