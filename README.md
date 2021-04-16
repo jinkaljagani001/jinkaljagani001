@@ -13,7 +13,7 @@ JinkalKumar Jagani<img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What I'm Doing:
 </h3>
 <p>
-    - iOS Mobile Apps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Mac-OS Apps <br>
+    - iOS Mobile Apps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Mac-OS Apps <br>
     - iconic App Development&nbsp;&nbsp;&nbsp;&nbsp;- Seo Optimisation <br>
     - watch App Development   
 </p>
