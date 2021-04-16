@@ -45,7 +45,7 @@ JinkalKumar Jagani<img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
   
   
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jenilbhadja001&label=Profile%20views&color=0e75b6&style=flat" alt="jenilbhadja" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jinkaljagani001&label=Profile%20views&color=0e75b6&style=flat" alt="jinkaljagani001" /> </p>
 
 - - -
 <p align="center">
