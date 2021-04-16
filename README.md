@@ -47,10 +47,14 @@ JinkalKumar Jagani<img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jinkaljagani001&label=Profile%20views&color=0e75b6&style=flat" alt="jinkaljagani001" /> </p>
 
+- <!--👨‍💻--> All of my projects are available at [Jinkal Jagani](https://jinkaljagani001.github.io/)
+
+- <!--📝--> Follow me on [Linkedin](https://www.linkedin.com/in/jinkal-jagani-6a9b0766/) <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
 - - -
 <p align="center">
   Feel free to reach out to Jinkal if you are interested to talk, he is always ready to have a conversation! 💯<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="15">
 </p>
+
 
 - - -
 
